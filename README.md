@@ -8,3 +8,5 @@
 - [工作流程](gzlc/README.md)
 
 - 应急预案
+
+- [知识库](kb/README.md)
