@@ -19,8 +19,8 @@
 	- 汇聚及接入层网络链路
 	- 出口及核心网
 	- 网站建设及服务
-	- [反向代理](reverse-proxy/README.md)
-		- [在reverse-proxy.ynu.edu.cn中为网站设置反向代理](reverse-proxy/create-conf.md)
+	- [反向代理](gzlc/reverse-proxy/README.md)
+		- [在reverse-proxy.ynu.edu.cn中为网站设置反向代理](gzlc/reverse-proxy/create-conf.md)
 	- 电子邮件
 	- 网络教学与质量工程系统
 	- VPN
@@ -31,3 +31,6 @@
 	- [常见问题工作流程](gzlc/faq/README.md)
 		- [用户反映：上不了网](gzlc/faq/shang-bu-liao-wang.md)
 - 应急预案
+
+- [知识库](kb/README.md)
+	- [各网段IPv4/IPv6对应表](kb/ipv4-v6.md)
