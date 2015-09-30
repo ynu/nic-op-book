@@ -9,6 +9,10 @@
 - [添加用户](add-user.md)
 - [修改用户信息](modify-user-info.md)
 
+## 发送消息
+
+- [使用应用发送消息](xiaowei/send-message.md)
+
 
 ## 常见问题
 
