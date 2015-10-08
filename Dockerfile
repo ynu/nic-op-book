@@ -11,4 +11,4 @@ RUN npm install -g gitbook-cli && gitbook versions:install 2.4.3 && \
 
 EXPOSE 4000 35729
 
-CMD /usr/local/bin/gitbook serve .
+CMD gitbook serve .
