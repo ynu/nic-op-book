@@ -1,12 +1,9 @@
-FROM node
+FROM tobegit3hub/gitbook-server
 
-WORKDIR /srv/gitbook
-COPY ./* /srv/gitbook/
-RUN npm install
-RUN npm install -g gitbook-cli
-RUN npm install gitbook
+WORKDIR /gitbook
+COPY ./* /gitbook/
 
 
 EXPOSE 4000 35729
 
-CMD gitbook serve .
+CMD ["gitbook", "serve", "/gitbook"]
