@@ -14,7 +14,8 @@
 		- [登录微信企业号后台](gzlc/xiaowei/login.md)
 		- [添加用户](gzlc/xiaowei/add-user.md)
 		- [修改用户信息](gzlc/xiaowei/modify-user-info.md)
-		- [使用应用发送消息](glzc/xiaowei/send-message.md)
+		- [使用应用发送消息](gzlc/xiaowei/send-message.md)
+		- [在应用素材库中添加素材](gzlc/xiaowei/add-message.md)
 		- [常见问题：无法看到通讯录内的其他人](gzlc/xiaowei/wufa-kandao-tongxunlu-qitaren.md)
 	- 上网认证
 	- 汇聚及接入层网络链路
