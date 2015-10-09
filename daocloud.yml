@@ -4,10 +4,11 @@ services:
 env:
 
 install:
-
+    - npm install -g gitbook-cli
 
 before_script:
-
+    - npm install
 
 script:
     - echo "start to building."
+    - gitbook build
