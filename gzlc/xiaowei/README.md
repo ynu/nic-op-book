@@ -11,8 +11,8 @@
 
 ## 消息管理
 
-- [使用应用发送消息](xiaowei/send-message.md)
-- [在素材库中添加素材](xiaowei/add-message.md)
+- [使用应用发送消息](send-message.md)
+- [在素材库中添加素材](add-message.md)
 
 
 ## 常见问题
