@@ -1,13 +1,13 @@
 FROM node
 
-RUN npm install -g gitbook-cli
-
 RUN mkdir /gitbook
 COPY ./* /gitbook/
 
 WORKDIR /gitbook
 
 RUN pwd && ls
+
+RUN npm install -g gitbook-cli
 
 RUN npm install
 RUN gitbook build
