@@ -1,6 +1,7 @@
 FROM node
 
 RUN npm install -g gitbook-cli
+WORKDIR .
 RUN pwd && ls
 RUN npm install
 RUN gitbook build
