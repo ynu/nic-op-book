@@ -10,9 +10,8 @@ RUN npm install -g gitbook-cli
 
 RUN npm install
 RUN gitbook build
+RUN rm -rf node_modules
 
 RUN ls ./_book
 
-WORKDIR /book
-RUN cp -R /gitbook/_book/. /book
-RUN pwd && ls
+CMD cp -R /gitbook/_book/. /book && pwd && ls
