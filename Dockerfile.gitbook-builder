@@ -15,5 +15,4 @@ RUN ls ./_book
 
 WORKDIR /book
 RUN cp -R /gitbook/_book/. /book
-
-CMD ls
+RUN pwd && ls
