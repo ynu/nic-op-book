@@ -4,7 +4,6 @@ RUN mkdir /gitbook
 COPY ./* /gitbook/
 WORKDIR /gitbook
 
-RUN pwd && ls
 
 RUN npm install -g gitbook-cli
 
@@ -12,9 +11,8 @@ RUN npm install
 RUN gitbook build
 RUN rm -rf node_modules
 
-RUN ls ./_book
 
-CMD cp -R /gitbook/_book/. /book && pwd && ls
+CMD rm -rf /book/* && cp -R /gitbook/_book/. /book && ls /book
 
 # FROM nginx
 # COPY ./_book /usr/share/nginx/html
