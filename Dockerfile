@@ -1,6 +1,5 @@
 FROM node
 
-ADD * /gitbook/
 ADD gzlc/* /gitbook/gzlc/
 ADD hr/* /gitbook/hr/
 ADD kb/* /gitbook/kb/
