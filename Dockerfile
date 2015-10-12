@@ -11,9 +11,4 @@ RUN npm install
 RUN gitbook build
 RUN rm -rf node_modules
 
-RUN ls /gitbook/_book
-
-CMD rm -rf /book/* && cp -R /gitbook/_book/. /book && ls /book
-
-# FROM nginx
-# COPY ./_book /usr/share/nginx/html
+CMD rm -rf /book/* && cp -R /gitbook/_book/. /book
