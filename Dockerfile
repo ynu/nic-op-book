@@ -1,15 +1,14 @@
 FROM node
 
-RUN mkdir /gitbook
 ADD * /gitbook/
 ADD gzlc/* /gitbook/gzlc/
 ADD hr/* /gitbook/hr/
 ADD kb/* /gitbook/kb/
-ADD Gruntfile.js
-ADD package.json
-ADD README.md
-ADD SUMMARY.md
-ADD zongze.md
+ADD Gruntfile.js /gitbook/
+ADD package.json /gitbook/
+ADD README.md /gitbook/
+ADD SUMMARY.md /gitbook/
+ADD zongze.md /gitbook/
 
 WORKDIR /gitbook
 
@@ -23,5 +22,6 @@ RUN rm -rf node_modules
 
 RUN ls /gitbook/_book
 RUN ls /gitbook/_book/gzlc
+RUN ls /gitbook/_book/gzlc/xiaowei
 
 CMD rm -rf /book/* && cp -R /gitbook/_book/. /book
