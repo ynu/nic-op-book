@@ -1,5 +1,12 @@
 FROM node
 
+RUN mkdir /gitbook
+ADD * /gitbook/
+ADD gzlc/* /gitbook/gzlc/
+ADD hr/* /gitbook/hr/
+ADD kb/* /gitbook/kb/
+
+WORKDIR /gitbook
 
 RUN ls
 
@@ -9,6 +16,6 @@ RUN npm install
 RUN gitbook build
 RUN rm -rf node_modules
 
-RUN ls ./_book
+RUN ls /gitbook/_book
 
-CMD rm -rf /book/* && cp -R ./_book/. /book
+CMD rm -rf /book/* && cp -R /gitbook/_book/. /book
