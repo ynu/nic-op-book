@@ -1,9 +1,10 @@
 FROM node
 
 RUN mkdir /gitbook
-COPY ./* /gitbook/
+ADD ./* /gitbook/
 WORKDIR /gitbook
 
+RUN ls
 
 RUN npm install -g gitbook-cli
 
