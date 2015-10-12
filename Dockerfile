@@ -1,7 +1,7 @@
 FROM node
 
 RUN mkdir /gitbook
-ADD ./* /gitbook/
+ADD * /gitbook/
 WORKDIR /gitbook
 
 RUN ls
