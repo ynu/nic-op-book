@@ -12,6 +12,8 @@ ADD zongze.md /gitbook/
 WORKDIR /gitbook
 
 RUN ls
+RUN ls gzlc
+RUN ls gzlc/xiaowei
 
 RUN npm install -g gitbook-cli
 
