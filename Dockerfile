@@ -1,8 +1,8 @@
 FROM node
 
-ADD gzlc/* /gitbook/gzlc/
-ADD hr/* /gitbook/hr/
-ADD kb/* /gitbook/kb/
+ADD gzlc /gitbook/gzlc
+ADD hr /gitbook/hr
+ADD kb /gitbook/kb
 ADD Gruntfile.js /gitbook/
 ADD package.json /gitbook/
 ADD README.md /gitbook/
