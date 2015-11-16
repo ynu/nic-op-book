@@ -17,6 +17,7 @@
 		- [使用应用发送消息](gzlc/xiaowei/send-message.md)
 		- [在应用素材库中添加素材](gzlc/xiaowei/add-message.md)
 		- [常见问题：无法看到通讯录内的其他人](gzlc/xiaowei/wufa-kandao-tongxunlu-qitaren.md)
+		- [提示“该联系人记录已关联了其他的微信号”错误的解决方法](gzlc/xiaowei/yi-guan-lian-qi-ta-wei-xin-hao.md)
 	- [上网认证](gzlc/shang-wang-ren-zheng/README.md)
 		- [上网认证账号用户名或密码错误或遗忘](gzlc/shang-wang-ren-zheng/mima-chongzhi.md)
 	- [汇聚及接入层网络链路]()

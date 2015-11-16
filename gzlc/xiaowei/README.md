@@ -18,7 +18,7 @@
 ## 常见问题
 
 - [无法看到通讯录内的其他人](wufa-kandao-tongxunlu-qitaren.md)
-
+- [提示“该联系人记录已关联了其他的微信号”错误的解决方法](yi-guan-lian-qi-ta-wei-xin-hao.md)
 
 ## 其他问题
 
