@@ -24,10 +24,13 @@
 
     - 修改配置文件中`token`的值
 
-5. 重启`supervisor`服务
-`sudo supervisorctl reload`
-
-6. 检查`supervisor`中`consul-template`服务是否正常，以及`/etc/nginx/sites-enabled/from-consul-template.conf`配置文件是否正确。
+5. 重启`supervisor`中的`consul-template`服务
+```
+nginx-1$ sudo supervisorctl restart consul-template
+consul-template: stopped
+consul-template: started
+```
+无错误提示即表示启动正常。
 
 ## 其他说明
 - 如果未使用预设的脚本，而是手动安装 **consul-template**，则在进行以上操作会略有不同；
