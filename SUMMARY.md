@@ -38,6 +38,7 @@
 			* [在consul中注册一个web服务](gzlc/dc/service-register/register-web-service-in-consul.md)
 		+ [消息队列](gzlc/dc/mq/README.md)
 			* [配置RabbitMQ服务器](gzlc/dc/mq/setup-rabbitmq-server.md)
+			* [配置RabbitMQ集群](gzlc/dc/mq/setup-rabbitmq-cluster.md)
 	- [出口防火墙]()
 	- [无线网]()
 		- [无法搜索到无线网SSID]()

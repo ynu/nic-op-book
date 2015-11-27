@@ -7,3 +7,4 @@
 ## 工作流程
 
 - [配置RabbitMQ服务器](setup-rabbitmq-server.md)
+- [配置RabbitMQ集群](setup-rabbitmq-cluster.md)
