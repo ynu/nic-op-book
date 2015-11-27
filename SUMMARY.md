@@ -36,6 +36,8 @@
 				- [服务器配置：自动生成nginx配置文件](gzlc/dc/second-lb/http/server-setup-generate-conf.md)
 		+ [服务注册与发现](gzlc/dc/service-register/README.md)
 			* [在consul中注册一个web服务](gzlc/dc/service-register/register-web-service-in-consul.md)
+		+ [消息队列](gzlc/dc/mq/README.md)
+			* [配置RabbitMQ服务器](gzlc/dc/mq/setup-rabbitmq-server.md)
 	- [出口防火墙]()
 	- [无线网]()
 		- [无法搜索到无线网SSID]()
