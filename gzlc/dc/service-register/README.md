@@ -8,3 +8,4 @@
 ## 工作流程
 
 - [使用consul注册web服务](register-web-service-in-consul.md)
+- [安装并配置etcd服务器](setup-etcd-server.md)
