@@ -34,6 +34,7 @@
 		+ [二级负载均衡](gzlc/dc/second-lb/README.md)
 			* [HTTP负载均衡](gzlc/dc/second-lb/http/README.md)
 				- [服务器配置：自动生成nginx配置文件](gzlc/dc/second-lb/http/server-setup-generate-conf.md)
+				- [新增网站负载均衡配置](gzlc/dc/second-lb/http/add-site.md)
 		+ [服务注册与发现](gzlc/dc/service-register/README.md)
 			* [在consul中注册一个web服务](gzlc/dc/service-register/register-web-service-in-consul.md)
 			* [安装并配置etcd服务器](setup-etcd-server.md)
