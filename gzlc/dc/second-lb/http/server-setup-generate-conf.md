@@ -34,4 +34,3 @@ consul-template: started
 
 ## 其他说明
 - 如果未使用预设的脚本，而是手动安装 **consul-template**，则在进行以上操作会略有不同；
-- `nginx.ct`模板文件默认仅使用`ynu0`数据中心的服务注册信息，如果使用了其他datacenter，此处需要修改。
