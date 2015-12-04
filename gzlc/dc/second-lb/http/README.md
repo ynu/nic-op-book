@@ -15,4 +15,4 @@
 ## 工作流程
 
 - [服务器配置：自动生成nginx配置文件](server-setup-generate-conf.md)
-- [新增网站负载均衡配置](add-site.md)
+- [新增网站负载均衡配置](add-website.md)
