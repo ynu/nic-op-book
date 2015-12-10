@@ -7,7 +7,14 @@
 
 ## 工作流程
 
+### 服务器设置
+
 - [安装Consul](setup-consul.md)
-- [使用consul注册web服务](register-web-service-in-consul.md)
 - [使用consul监控 DHCP服务](setting-for-checking-dhcpd.md)
+- [使用consul-template生成根据mac分配ip地址的dhcpd配置文件](setting-for-generating-dhcpd-conf.md)
 - [安装并配置etcd服务器](setup-etcd-server.md)
+
+### 运维
+
+- [使用consul注册web服务](register-web-service-in-consul.md)
+- [使用consul为虚拟机分配IP地址](register-dhcp-host.md)

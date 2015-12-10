@@ -39,6 +39,7 @@
 			* [安装Consul](gzlc/dc/service-register/setup-consul.md)
 			* [在consul中注册一个web服务](gzlc/dc/service-register/register-web-service-in-consul.md)
 			* [使用consul监控 DHCP服务](gzlc/dc/service-register/setting-for-checking-dhcpd.md)
+			* [使用consul-template生成根据mac分配ip地址的dhcpd配置文件](gzlc/dc/service-register/setting-for-generating-dhcpd-conf.md)
 			* [安装并配置etcd服务器](setup-etcd-server.md)
 		+ [消息队列](gzlc/dc/mq/README.md)
 			* [配置RabbitMQ服务器](gzlc/dc/mq/setup-rabbitmq-server.md)
