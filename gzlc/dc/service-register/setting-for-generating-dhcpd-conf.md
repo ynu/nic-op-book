@@ -8,7 +8,7 @@
 
 ## 工作流程
 
-1.  下载模板文件：`curl > /data/consul-template/dhcpd.ct`
+1.  下载模板文件：`curl https://raw.githubusercontent.com/ynu/consul/master/templates/dhcpd.ct > /data/consul-template/dhcpd.ct`
 2. 修改consul-template配置文件
 `vi config.hcl`
 
