@@ -38,6 +38,7 @@
 		+ [服务注册与发现](gzlc/dc/service-register/README.md)
 			* [安装Consul](gzlc/dc/service-register/setup-consul.md)
 			* [在consul中注册一个web服务](gzlc/dc/service-register/register-web-service-in-consul.md)
+			* [使用consul监控 DHCP服务](gzlc/dc/service-register/setting-for-checking-dhcpd.md)
 			* [安装并配置etcd服务器](setup-etcd-server.md)
 		+ [消息队列](gzlc/dc/mq/README.md)
 			* [配置RabbitMQ服务器](gzlc/dc/mq/setup-rabbitmq-server.md)

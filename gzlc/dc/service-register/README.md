@@ -7,5 +7,7 @@
 
 ## 工作流程
 
+- [安装Consul](setup-consul.md)
 - [使用consul注册web服务](register-web-service-in-consul.md)
+- [使用consul监控 DHCP服务](setting-for-checking-dhcpd.md)
 - [安装并配置etcd服务器](setup-etcd-server.md)
