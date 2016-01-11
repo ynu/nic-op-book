@@ -22,8 +22,9 @@
     ```
 
     - 修改配置文件中`token`的值
+3. 检查生成的配置是否正确： `consul-template -config=config.hcl -dry`
 
-3. 重启`supervisor`中的`consul-template`服务
+4. 重启`supervisor`中的`consul-template`服务
 ```
 nginx-1$ sudo supervisorctl restart consul-template
 consul-template: stopped

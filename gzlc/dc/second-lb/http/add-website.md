@@ -3,7 +3,7 @@
 
 ## 工作流程
 
-1. 打开 [Consul KEY/VALUE 控制台](http://consul.nagu.cc)，具体操作可参考: [如何使用Consul控制它]()
+1. 打开 [Consul KEY/VALUE 控制台](http://consul.ynu.eud.cn)，具体操作可参考: [如何使用Consul控制它]()
 2. 在`/nginx`下新建一个目录，名称不能含有中文或特殊符号。例如，我们建立一个名为`new-website`的目录
 3. 在刚建好的目录下新建一个名为`domian`的键，其值为网站最终对外发布的域名。
 4. 在步骤2中建好的目录下建立一个名为`servers`的目录，用于存放网站真实服务器的地址。

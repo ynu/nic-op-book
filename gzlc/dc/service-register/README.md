@@ -10,8 +10,10 @@
 ### 服务器设置
 
 - [安装Consul](setup-consul.md)
+- [安装consul-template](setup-consul-template.md)
 - [使用consul监控 DHCP服务](setting-for-checking-dhcpd.md)
 - [使用consul-template生成根据mac分配ip地址的dhcpd配置文件](setting-for-generating-dhcpd-conf.md)
+- [使用consul监控haproxy服务](../../service-register/setting-for-checking-haproxy.md)
 - [安装并配置etcd服务器](setup-etcd-server.md)
 
 ### 运维
