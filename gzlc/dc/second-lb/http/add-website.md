@@ -15,3 +15,6 @@
 
 ### Location Options
 在站点目录下，可以通过location_options键为location节点添加其他的options。
+
+### Server Options
+在站点目录下，可以通过server_options键为server节点添加其他的options
