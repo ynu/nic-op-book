@@ -5,7 +5,7 @@
 
 ### 工作流程
 
-1. 打开 [Consul KEY/VALUE 控制台](http://consul.ynu.edu.cn/ui/#/ynu0/kv/)，具体操作可参考: [如何使用Consul控制它]()
+1. 打开 [Consul KEY/VALUE 控制台](http://consul.ynu.edu.cn/ui/#/ynu0/kv/)，具体操作可参考: [如何使用Consul控制台]()
 2. 在`/haproxy-tcp`下新建一个目录，名称为实服务端口号（即最终对外提供服务的端口号），取值范围是40000至50000。
 3. 在刚建好的目录下新建一个名为`name`的键，其值为此服务的名称，应为英文字母和数字的组合。
 4. 在步骤2中建好的目录下建立一个名为`servers`的目录，用于存放网站真实服务器的地址。
