@@ -85,3 +85,4 @@
 	- [托管服务器列表]()
 	- [Linux系统使用](kb/linux/README.md)
 		+ [创建CA](kb/linux/create-ca.md)
+		+ [让服务器只允许使用Key进行SSH登录](kb/linux/server-ssh-by-key.md)
