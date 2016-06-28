@@ -75,6 +75,8 @@
 		- [科技处科研管理系统]()
 
 - [应急预案]()
+- [规章制度](gzzd/README.md)
+	- [信息室工作汇报制度](gzzd/xxs-huibao.md)
 
 - [知识库](kb/README.md)
 	- [各网段IPv4/IPv6对应表](kb/ipv4-v6.md)
