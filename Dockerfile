@@ -3,6 +3,7 @@ FROM node
 ADD gzlc /gitbook/gzlc
 ADD hr /gitbook/hr
 ADD kb /gitbook/kb
+ADD gzzd /gitbook/gzzd
 ADD Gruntfile.js /gitbook/
 ADD package.json /gitbook/
 ADD README.md /gitbook/
