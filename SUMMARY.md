@@ -1,4 +1,4 @@
-# 云南大学网络与信息中心运维中心工作章程
+# 云南大学信息技术中心工作制度
 
 - [总则](zongze.md)
 
@@ -8,6 +8,8 @@
 		- [工作内容](hr/callcenter/gong-zuo-nei-rong.md)
 		- [工作人员上岗能力要求](hr/callcenter/nengliyaoqiu.md)
 		- [工作人员酬金发放制度](hr/callcenter/chou-jin.md)
+	- [信息室]()
+		- [业务设置](hr/xxs/yewu-shezhi.md)
 
 - [工作流程](gzlc/README.md)
 	- [“云大小薇”微信企业号](gzlc/xiaowei/README.md)
@@ -90,3 +92,5 @@
 	- [Linux系统使用](kb/linux/README.md)
 		+ [创建CA](kb/linux/create-ca.md)
 		+ [让服务器只允许使用Key进行SSH登录](kb/linux/server-ssh-by-key.md)
+
+
