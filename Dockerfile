@@ -1,4 +1,4 @@
-FROM node
+FROM nagucc/gitbook-server
 
 ADD gzlc /gitbook/gzlc
 ADD hr /gitbook/hr
@@ -11,19 +11,9 @@ ADD SUMMARY.md /gitbook/
 ADD zongze.md /gitbook/
 
 WORKDIR /gitbook
-
-RUN ls
-RUN ls gzlc
-RUN ls gzlc/xiaowei
-
-RUN npm install -g gitbook-cli
-
-RUN npm install
 RUN gitbook build
-RUN rm -rf node_modules
 
-RUN ls /gitbook/_book
-RUN ls /gitbook/_book/gzlc
-RUN ls /gitbook/_book/gzlc/xiaowei
+EXPOSE 4000
 
-CMD rm -rf /book/* && cp -R /gitbook/_book/. /book
+WORKDIR /gitbook/_book
+CMD web-server -p 4000
