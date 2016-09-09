@@ -2,7 +2,7 @@
 
 - [总则](zongze.md)
 
-- [人力资源管理](hr/README.md)
+- [管理](hr/README.md)
 	- [呼叫中心]()
 		- [岗位设置](hr/callcenter/gangweishezhi.md)
 		- [工作内容](hr/callcenter/gong-zuo-nei-rong.md)
@@ -10,6 +10,9 @@
 		- [工作人员酬金发放制度](hr/callcenter/chou-jin.md)
 	- [信息室]()
 		- [业务设置](hr/xxs/yewu-shezhi.md)
+		- [月报编写原则](hr/xxs/yuebao-bianxie-yuanze.md)
+		- [2016年6月工作汇报](http://www.network.ynu.edu.cn/xwgg/jsdt/44622.html)
+		- [2016年7-8月工作汇报](hr/xxs/yuebao-201607-08.md)
 
 - [工作流程](gzlc/README.md)
 	- [“云大小薇”微信企业号](gzlc/xiaowei/README.md)
