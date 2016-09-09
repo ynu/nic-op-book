@@ -13,6 +13,7 @@
 		- [月报编写原则](hr/xxs/yuebao-bianxie-yuanze.md)
 		- [2016年6月工作汇报](http://www.network.ynu.edu.cn/xwgg/jsdt/44622.html)
 		- [2016年7-8月工作汇报](hr/xxs/yuebao-201607-08.md)
+		- [2016年9月工作计划](hr/xxs/gongzuo-jihua-201609.md)
 
 - [工作流程](gzlc/README.md)
 	- [“云大小薇”微信企业号](gzlc/xiaowei/README.md)

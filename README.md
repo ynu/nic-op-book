@@ -3,7 +3,7 @@
 
 - [总则](zongze.md)
 
-- [人力资源管理](hr/README.md)
+- [管理](hr/README.md)
 
 - [工作流程](gzlc/README.md)
 
