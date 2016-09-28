@@ -9,11 +9,7 @@
 		- [工作人员上岗能力要求](hr/callcenter/nengliyaoqiu.md)
 		- [工作人员酬金发放制度](hr/callcenter/chou-jin.md)
 	- [信息室]()
-		- [业务设置](hr/xxs/yewu-shezhi.md)
-		- [月报编写原则](hr/xxs/yuebao-bianxie-yuanze.md)
-		- [2016年6月工作汇报](http://www.network.ynu.edu.cn/xwgg/jsdt/44622.html)
-		- [2016年7-8月工作汇报](hr/xxs/yuebao-201607-08.md)
-		- [2016年9月工作计划](hr/xxs/gongzuo-jihua-201609.md)
+		
 
 - [工作流程](gzlc/README.md)
 	- [“云大小薇”微信企业号](gzlc/xiaowei/README.md)
@@ -30,8 +26,12 @@
 	- [出口及核心网]()
 	- [网站建设及服务]()
 		- [新建网站]()
+	- [数据中心](gzlc/dc/README.md)
+		- 负载均衡
+			- [在负载均衡（TSG-LB）中添加网站的反向代理](gzlc/dc/lb/add-site-to-lb.md)
 	- [反向代理](gzlc/reverse-proxy/README.md)
 		- [为网站设置反向代理](gzlc/reverse-proxy/create-conf.md)
+		
 	- [电子邮件]()
 		- [邮件账户密码错误或遗忘]()
 	- [网络教学与质量工程系统]()
@@ -85,7 +85,11 @@
 	- [信息室工作汇报制度](gzzd/xxs-huibao.md)
 	- [业务组织架构](gzzd/yewu-zuzhi-jiagou.md)
 	- [网站建设流程](gzzd/wangzhan-jianshe-liucheng.md)
-
+	- [业务设置](gzzd/xxs/yewu-shezhi.md)
+	- [月报编写原则](gzzd/xxs/yuebao-bianxie-yuanze.md)
+	- [2016年6月工作汇报](http://www.network.ynu.edu.cn/xwgg/jsdt/44622.html)
+	- [2016年7-8月工作汇报](gzzd/xxs/yuebao-201607-08.md)
+	- [2016年9月工作计划](gzzd/xxs/gongzuo-jihua-201609.md)
 - [知识库](kb/README.md)
 	- [各网段IPv4/IPv6对应表](kb/ipv4-v6.md)
 	- [数据中心内网IP地址分配规则](kb/dc-private-ip.md)
