@@ -9,8 +9,15 @@
 		- [工作人员上岗能力要求](hr/callcenter/nengliyaoqiu.md)
 		- [工作人员酬金发放制度](hr/callcenter/chou-jin.md)
 	- [信息室]()
-		
-
+- [规章制度](gzzd/README.md)
+	- [信息室工作汇报制度](gzzd/xxs-huibao.md)
+	- [业务组织架构](gzzd/yewu-zuzhi-jiagou.md)
+	- [网站建设流程](gzzd/wangzhan-jianshe-liucheng.md)
+	- [业务设置](gzzd/xxs/yewu-shezhi.md)
+	- [月报编写原则](gzzd/xxs/yuebao-bianxie-yuanze.md)
+	- [2016年6月工作汇报](http://www.network.ynu.edu.cn/xwgg/jsdt/44622.html)
+	- [2016年7-8月工作汇报](gzzd/xxs/yuebao-201607-08.md)
+	- [2016年9月工作计划](gzzd/xxs/gongzuo-jihua-201609.md)
 - [工作流程](gzlc/README.md)
 	- [“云大小薇”微信企业号](gzlc/xiaowei/README.md)
 		- [登录微信企业号后台](gzlc/xiaowei/login.md)
@@ -81,15 +88,6 @@
 		- [科技处科研管理系统]()
 
 - [应急预案]()
-- [规章制度](gzzd/README.md)
-	- [信息室工作汇报制度](gzzd/xxs-huibao.md)
-	- [业务组织架构](gzzd/yewu-zuzhi-jiagou.md)
-	- [网站建设流程](gzzd/wangzhan-jianshe-liucheng.md)
-	- [业务设置](gzzd/xxs/yewu-shezhi.md)
-	- [月报编写原则](gzzd/xxs/yuebao-bianxie-yuanze.md)
-	- [2016年6月工作汇报](http://www.network.ynu.edu.cn/xwgg/jsdt/44622.html)
-	- [2016年7-8月工作汇报](gzzd/xxs/yuebao-201607-08.md)
-	- [2016年9月工作计划](gzzd/xxs/gongzuo-jihua-201609.md)
 - [知识库](kb/README.md)
 	- [各网段IPv4/IPv6对应表](kb/ipv4-v6.md)
 	- [数据中心内网IP地址分配规则](kb/dc-private-ip.md)
@@ -100,5 +98,6 @@
 	- [Linux系统使用](kb/linux/README.md)
 		+ [创建CA](kb/linux/create-ca.md)
 		+ [让服务器只允许使用Key进行SSH登录](kb/linux/server-ssh-by-key.md)
+	- [云南大学认证微信公众号列表](kb/ynu-mp.md)
 
 
