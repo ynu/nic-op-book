@@ -24,6 +24,8 @@
 		- [数据中心图书馆机房网络拓扑](kb/tsg-wangluo-tuopu.md)
 	- 网络室
 		- [云南大学校园网出口防火墙安全管理制度](gzzd/wls/chukou-fhq-zhidu.md)
+		- [云南大学远程VPN使用管理办法](gzzd/wls/vpn-zhidu.md)
+		- [云南大学校园网出口统一管理中心安全管理制度](gzzd/wls/umc-zhidu.md)
 - [工作流程](gzlc/README.md)
 	- [“云大小薇”微信企业号](gzlc/xiaowei/README.md)
 		- [登录微信企业号后台](gzlc/xiaowei/login.md)
