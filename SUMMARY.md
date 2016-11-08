@@ -19,6 +19,8 @@
 	- [2016年7-8月工作汇报](gzzd/xxs/yuebao-201607-08.md)
 	- [2016年9月工作计划](gzzd/xxs/gongzuo-jihua-201609.md)
 	- [2016年9月工作汇报](gzzd/xxs/yuebao-201609.md)
+	- [云南大学数据中心服务器安全管理办法](gzzd/xxs/fuwuqi-anquan-banfa.md)
+	- [数据中心图书馆机房网络拓扑](kb/tsg-wangluo-tuopu.md)
 - [工作流程](gzlc/README.md)
 	- [“云大小薇”微信企业号](gzlc/xiaowei/README.md)
 		- [登录微信企业号后台](gzlc/xiaowei/login.md)
@@ -100,5 +102,5 @@
 		+ [创建CA](kb/linux/create-ca.md)
 		+ [让服务器只允许使用Key进行SSH登录](kb/linux/server-ssh-by-key.md)
 	- [云南大学认证微信公众号列表](kb/ynu-mp.md)
-
+	- [云南大学信息系统情况](kb/xinxi-xitong.md)
 
