@@ -16,11 +16,12 @@
 		- [网站建设流程](gzzd/wangzhan-jianshe-liucheng.md)
 		- [业务设置](gzzd/xxs/yewu-shezhi.md)
 		- [月报编写原则](gzzd/xxs/yuebao-bianxie-yuanze.md)
-		- [2016年6月工作汇报](http://www.network.ynu.edu.cn/xwgg/jsdt/44622.html)
+		- [2016年6月工作汇报](gzzd/xxs/yuebao-201606.md)
 		- [2016年7-8月工作汇报](gzzd/xxs/yuebao-201607-08.md)
 		- [2016年9月工作计划](gzzd/xxs/gongzuo-jihua-201609.md)
 		- [2016年9月工作汇报](gzzd/xxs/yuebao-201609.md)
 		- [云南大学数据中心服务器安全管理办法](gzzd/xxs/fuwuqi-anquan-banfa.md)
+		- [云南大学应用服务器管理办法](gzzd/xxs/fuwuqi-guanli-zhidu.md)
 		- [数据中心图书馆机房网络拓扑](kb/tsg-wangluo-tuopu.md)
 	- 网络室
 		- [云南大学校园网出口防火墙安全管理制度](gzzd/wls/chukou-fhq-zhidu.md)
