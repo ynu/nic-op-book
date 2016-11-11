@@ -110,4 +110,5 @@
 	- [云南大学认证微信公众号列表](kb/ynu-mp.md)
 	- [云南大学信息系统情况](kb/xinxi-xitong.md)
 	- [数据中心图书馆机房网络拓扑](kb/tsg-wangluo-tuopu.md)
+	- [永久链接](kb/permalinks.md)
 
