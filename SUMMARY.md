@@ -20,6 +20,7 @@
 		- [2016年7-8月工作汇报](gzzd/xxs/yuebao-201607-08.md)
 		- [2016年9月工作计划](gzzd/xxs/gongzuo-jihua-201609.md)
 		- [2016年9月工作汇报](gzzd/xxs/yuebao-201609.md)
+		- [2016年10月工作汇报](gzzd/xxs/yuebao-201610.md)
 		- [云南大学数据中心服务器安全管理办法](gzzd/xxs/fuwuqi-anquan-banfa.md)
 		- [云南大学应用服务器管理办法](gzzd/xxs/fuwuqi-guanli-zhidu.md)
 		- [云南大学域名管理办法](gzzd/xxs/domain-zhidu.md)
