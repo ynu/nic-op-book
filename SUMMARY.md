@@ -25,6 +25,7 @@
 			- [2016年9月工作计划](gzzd/xxs/gzhb/gongzuo-jihua-201609.md)
 			- [2016年9月工作汇报](gzzd/xxs/gzhb/yuebao-201609.md)
 			- [2016年10月工作汇报](gzzd/xxs/gzhb/yuebao-201610.md)
+			- [2016年11月工作汇报](gzzd/xxs/gzhb/yuebao-201611.md)
 	- 网络室
 		- [云南大学校园网出口防火墙安全管理制度](gzzd/wls/chukou-fhq-zhidu.md)
 		- [云南大学远程VPN使用管理办法](gzzd/wls/vpn-zhidu.md)
@@ -34,6 +35,8 @@
 		- [A. 项目建设&研发]()
 		- [B. 应用系统]()
 		- [C. 数据中心]()
+			- [20. 开放API平台](gzlc/xxs/c20/README.md)
+				- [standard模块（v1）](gzlc/xxs/c20/standard-v1.md)
 		- [D. 外联&事务]()
 			- [15. IT资源申请]()
 				- [IT资源申请流程](gzlc/xxs/d15/it-resource-application.md)
