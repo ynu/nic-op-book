@@ -26,6 +26,7 @@
 			- [2016年9月工作汇报](gzzd/xxs/gzhb/yuebao-201609.md)
 			- [2016年10月工作汇报](gzzd/xxs/gzhb/yuebao-201610.md)
 			- [2016年11月工作汇报](gzzd/xxs/gzhb/yuebao-201611.md)
+			- [2016年12月工作汇报](gzzd/xxs/gzhb/yuebao-201612.md)
 	- 网络室
 		- [云南大学校园网出口防火墙安全管理制度](gzzd/wls/chukou-fhq-zhidu.md)
 		- [云南大学远程VPN使用管理办法](gzzd/wls/vpn-zhidu.md)
