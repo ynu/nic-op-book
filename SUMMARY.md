@@ -38,6 +38,7 @@
 		- [C. 数据中心]()
 			- [20. 开放API平台](gzlc/xxs/c20/README.md)
 				- [standard模块（v1）](gzlc/xxs/c20/standard-v1.md)
+				- [一卡通模块（v1）](gzlc/xxs/c20/ecard-v1.md)
 		- [D. 外联&事务]()
 			- [15. IT资源申请]()
 				- [IT资源申请流程](gzlc/xxs/d15/it-resource-application.md)
