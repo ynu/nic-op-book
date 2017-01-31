@@ -1,28 +1,20 @@
-# 一卡通模块接口（v1）
-一卡通模块提供读取一卡通系统数据的一系列方法。
+# 一卡通模块API参考（v1）
+## 商户(Shop)
+### 获取所有商户的信息
+`GET /shop/all?token=TOKEN`
 
-## 返回值说明
-所有请求的返回值包括两种类型：
-
-- 操作成功返回：
-
-```javascript
-{
-  ret: 0,   // 操作成功时，返回码为0
-  data: ... // 操作返回的数据
-}
-```
-
-- 操作失败返回：
+- 参数
+  - `token` 访问系统的token。
+  
+- 返回值
 
 ```javascript
 {
-  ret: 401, // 操作失败时，返回码为非0值
-  msg: ""   // 错误提示
+  ret: 0,
+  data: { ... } // Shop 对象
 }
 ```
 
-## API
 ### 获取指定商户信息
 `GET /shop/:shopId?token=TOKEN`
 
@@ -36,6 +28,22 @@
 {
   ret: 0,
   data: { ... } // Shop 对象
+}
+```
+
+### 获取指定日期所有商户的日账单
+`GET /shop/all/daily-bill/:accDate?token=TOKEN`
+
+- 参数
+  - `accDate` 账单日期。8位数字的日期，格式为`YYYYMMDD`，例如：`20170119`；
+  - `token` 访问系统的token。
+  
+- 返回值
+
+```javascript
+{
+  ret: 0,
+  data: { ... } // ShopBill 对象
 }
 ```
 
@@ -171,6 +179,10 @@
   data: [ ... ] // Shop 对象数组
 }
 ```
+
+
+
+
 
 
 
