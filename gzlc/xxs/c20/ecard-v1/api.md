@@ -1,5 +1,7 @@
 # 一卡通模块API参考（v1）
+
 ## 商户(Shop)
+
 ### 获取所有商户的信息
 `GET /shop/all?token=TOKEN`
 
