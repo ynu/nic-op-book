@@ -5,7 +5,7 @@
 
 ## URL Schema
 所有API都使用以下URL Schema：
-`http://api.ynu.edu.cn/<version>/<moudel>/[<sub_moudel/]<interface>[?<params>]`
+`https://api.ynu.edu.cn/<moudel>/<version>/[<sub_moudel/]<interface>[?<params>]`
 
 - `moudel` 为方便组织，所有公共API都被分组在特定的模块里；
 - `sub_moudel` 子模块；
@@ -13,7 +13,7 @@
 - `interface` 每个模块包括很多接口，每个接口都提供不同的功能；
 
 例如，调用`standard`模块的`zzjg`接口：
-`http://api.ynu.edu.cn/standard/v1/zzjg`
+`https://api.ynu.edu.cn/standard/v1/zzjg`
 
 ### 特别注意
 - API默认使用`GET` 方法调用；
@@ -50,5 +50,9 @@
 | email | 电子邮件 | v1 |
 | library | 图书馆 | v1 |
 
+
+## 资源
+### 网站favicon
+![favicon](http://www.ynu.edu.cn/favicon.ico)
 
 
