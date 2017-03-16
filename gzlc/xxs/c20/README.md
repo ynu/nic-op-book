@@ -46,6 +46,8 @@
 | --- | --- | --- |
 | standard | 公共代码标准 | [v1](./standard-v1.md) |
 | ecard | 一卡通系统 | [v1](./ecard-v1/README.md) |
+| tsg-lb | 图书馆机房负载均衡系统 | [v1](./tsg-lb-v1/README.md) |
+| fc | FusionCompute虚拟化平台 | [v1](./fc-v1/README.md) |
 | elearning | 网络教学平台 | v1 |
 | email | 电子邮件 | v1 |
 | library | 图书馆 | v1 |

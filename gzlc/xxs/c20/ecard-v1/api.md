@@ -15,6 +15,10 @@
 		- [获取指定日期所有商户的月账单](#1.3.1)
 		- [获取指定商户单月账单](#1.3.2)
 		- [获取子商户单月账单列表](#1.3.3)
+- [操作员(operator)](#2)
+	- 日账单
+		- [获取指定日期所有操作员的日账单](#2.1.1)
+		- [获取指定操作员单日账单](#2.1.2)
 
 ## <span id="1" /> 商户(Shop)
 
@@ -218,12 +222,42 @@
 }
 ```
 
+## <span id="2" /> 操作员（operator）
 
+### <span id="2.1.1" />  获取指定日期所有操作员的日账单
 
+`GET /operator/all/daily-bill/:accDate?token=TOKEN`
 
+- 参数
+  - `accDate` 账单日期。8位数字的日期，格式为`YYYYMMDD`，例如：`20170119`；
+  - `token` 访问系统的token。
+  
+- 返回值
 
+```javascript
+{
+  ret: 0,
+  data: [ ... ] // OperatorBill 对象列表
+}
+```
 
+### <span id="2.1.2" /> 获取指定操作员单日账单
 
+`GET /operator/:operatorCode/daily-bill/:accDate?token=TOKEN`
+
+- 参数
+  - `operatorCode` 指定的操作员；
+  - `accDate` 账单日期。8位数字的日期，格式为`YYYYMMDD`，例如：`20170119`；
+  - `token` 访问系统的token。
+  
+- 返回值
+
+```javascript
+{
+  ret: 0,
+  data: { ... } // OperatorBill 对象
+}
+```
 
 
 
