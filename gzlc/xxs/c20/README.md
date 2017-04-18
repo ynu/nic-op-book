@@ -55,6 +55,19 @@
 
 ## 资源
 ### 网站favicon
+
 ![favicon](http://www.ynu.edu.cn/favicon.ico)
+
+### 统一身份认证登录按钮
+
+![32](media/48-2.png)(48)
+
+![32](media/32-2.png)(32)
+![24](media/24-2.png)(24)
+![18](media/18-2.png)(18)
+
+
+
+
 
 
