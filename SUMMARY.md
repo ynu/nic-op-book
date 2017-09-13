@@ -44,6 +44,8 @@
 				- [统一身份认证系统管理办法](gzlc/xxs/a3/imp-guanli-banfa.md)
 				- [应用系统授权](gzlc/xxs/a3/yingyong-shouquan.md)
 		- [B. 应用系统]()
+			- [11. 统一身份认证系统]()
+				- [用户忘记密码的处理流程](gzlc/xxs/b11/wangji-mima.md)
 		- [C. 数据中心]()
 			- [20. 开放API平台](gzlc/xxs/c20/README.md)
 				- [standard模块（v1）](gzlc/xxs/c20/standard-v1.md)
