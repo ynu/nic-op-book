@@ -46,6 +46,8 @@
 		- [B. 应用系统]()
 			- [11. 统一身份认证系统]()
 				- [用户忘记密码的处理流程](gzlc/xxs/b11/wangji-mima.md)
+			- [12. IT资源管理系统]()
+				- [“无法正常打开页面”的处理流程](gzlc/xxs/b12/wufa-dakai-yemian.md)
 		- [C. 数据中心]()
 			- [20. 开放API平台](gzlc/xxs/c20/README.md)
 				- [standard模块（v1）](gzlc/xxs/c20/standard-v1.md)
