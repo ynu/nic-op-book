@@ -47,6 +47,7 @@
 			- [11. 统一身份认证系统]()
 				- [用户忘记密码的处理流程](gzlc/xxs/b11/wangji-mima.md)
 				- [由管理员帮用户绑定手机号码](gzlc/xxs/b11/guanliyuan-bangding-shoujihao.md)
+				- [通过手机找回密码](gzlc/xxs/b11/shouji-zhaohui-mima.md)
 			- [12. IT资源管理系统]()
 				- [“无法正常打开页面”的处理流程](gzlc/xxs/b12/wufa-dakai-yemian.md)
 		- [C. 数据中心]()
