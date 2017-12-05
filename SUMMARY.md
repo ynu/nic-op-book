@@ -41,6 +41,7 @@
 			- [2017年周报7](gzzd/xxs/gzhb/2017/zhoubao-7.md)
 			- [2017年周报8](gzzd/xxs/gzhb/2017/zhoubao-8.md)
 			- [2017年周报9](gzzd/xxs/gzhb/2017/zhoubao-9.md)
+			- [2017年周报10](gzzd/xxs/gzhb/2017/zhoubao-10.md)
 	- 网络室
 		- [云南大学校园网出口防火墙安全管理制度](gzzd/wls/chukou-fhq-zhidu.md)
 		- [云南大学远程VPN使用管理办法](gzzd/wls/vpn-zhidu.md)
