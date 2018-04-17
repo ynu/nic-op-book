@@ -50,6 +50,8 @@
 			- [2018年周报5](gzzd/xxs/gzhb/2018/zhoubao-5.md)
 			- [2018年周报6](gzzd/xxs/gzhb/2018/zhoubao-6.md)
 			- [2018年周报7](gzzd/xxs/gzhb/2018/zhoubao-7.md)
+			- [2018年周报8](gzzd/xxs/gzhb/2018/zhoubao-8.md)
+			- [2018年周报9](gzzd/xxs/gzhb/2018/zhoubao-9.md)
 	- 网络室
 		- [云南大学校园网出口防火墙安全管理制度](gzzd/wls/chukou-fhq-zhidu.md)
 		- [云南大学远程VPN使用管理办法](gzzd/wls/vpn-zhidu.md)
@@ -173,4 +175,5 @@
 	- [云南大学信息系统情况](kb/xinxi-xitong.md)
 	- [数据中心图书馆机房网络拓扑](kb/tsg-wangluo-tuopu.md)
 	- [永久链接](kb/permalinks.md)
+	- [工作总结](kb/gzzj/index.md)
 
