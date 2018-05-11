@@ -40,9 +40,9 @@
 	- [查询指定卷](#8-2)
 	- [分页根据DataStore查询所有卷](#8-3)
 
-## <span id="#1" /> 站点
+## <span id="1" /> 站点
 
-### <span id="#1-1" /> 查询所有站点信息
+### <span id="1-1" /> 查询所有站点信息
 
 `GET /site?token=TOKEN`
 
@@ -67,9 +67,9 @@
 }
 ```
 
-## <span id="#2" /> 集群
+## <span id="2" /> 集群
 
-### <span id="#2-1" /> 查询集群列表
+### <span id="2-1" /> 查询集群列表
 
 `GET /site/:siteUri/cluster?tag=TAG&name=NAME&token=TOKEN`
 
@@ -105,7 +105,7 @@
 }	 
 ```
 
-### <span id="#2-2" /> 查询集群内计算资源统计信息
+### <span id="2-2" /> 查询集群内计算资源统计信息
 
 `GET /site/:siteUri/computerResource/:clusterUri?token=TOKEN`
 
@@ -130,7 +130,7 @@
 }	 
 ```
 
-### <span id="#2-3" /> 查询集群详情
+### <span id="2-3" /> 查询集群详情
 
 `GET /site/:siteUri/cluster/:clusterUri?tag=TAG&name=NAME&token=TOKEN`
 
@@ -237,9 +237,9 @@
 }	 
 ```
 
-## <span id="#3" /> 主机
+## <span id="3" /> 主机
 
-### <span id="#3-1" /> 查询主机列表
+### <span id="3-1" /> 查询主机列表
 
 `GET /site/:siteUri/hostResource/?limit=LIMIT&offset=OFFSET&token=TOKEN`
 
@@ -319,9 +319,9 @@
 }
 ```
 
-## <span id="#4" /> 虚拟机
+## <span id="4" /> 虚拟机
 
-### <span id="#4-1" /> 分页查询虚拟机信息
+### <span id="4-1" /> 分页查询虚拟机信息
 
 `GET /site/:siteUri/vmResource/?limit=LIMIT&offset=OFFSET&token=TOKEN`
 
@@ -341,97 +341,97 @@
     total: 243,
     list: [
     {
-	 *         "uri: "/service/sites/3F7B07E2/vms/i-0000027D",
-	 *         "urn: "urn:sites:3F7B07E2:vms:i-0000027D",
-	 *         "uuid: "5d48e6af-968d-45d0-a912-93aa2419c243",
-	 *         "name: "商旅学院",
-	 *         "description: null,
-	 *         "group: null,
-	 *         "location: "urn:sites:3F7B07E2:clusters:335",
-	 *         "locationName: "托管集群",
-	 *         "hostUrn: "urn:sites:3F7B07E2:hosts:420",
-	 *         "clusterUrn: "urn:sites:3F7B07E2:clusters:335",
-	 *         "dataStoreUrns: null,
-	 *         "status: "running",
-	 *         "pvDriverStatus: "running",
-	 *         "toolInstallStatus: "empty",
-	 *         "cdRomStatus: "empty",
-	 *         "isTemplate: false,
-	 *         "isLinkClone: false,
-	 *         "createTime: "2017-03-20 07:43:19",
-	 *         "vncAcessInfo: null,
-	 *         "vmConfig: {
-	 *           "cpu: null,
-	 *           "memory: null,
-	 *           "disks: null,
-	 *           "nics: [
-	 *             {
-	 *               "name: null,
-	 *               "urn: null,
-	 *               "uri: null,
-	 *               "portGroupUrn: null,
-	 *               "portGroupName: null,
-	 *               "mac: "28:6e:d4:88:c8:ec",
-	 *               "ip: "113.55.12.216",
-	 *               "ips6: [
-	 *                 "fe80::c1e7:d0d7:17fb:17c6"
-	 *               ],
-	 *               "sequenceNum: 0,
-	 *               "virtIo: null,
-	 *               "ipList: "113.55.12.216",
-	 *               "nicType: null,
-	 *               "portId: null
-	 *             }
-	 *           ],
-	 *           "usb: null,
-	 *           "gpu: null,
-	 *           "properties: {
-	 *             "bootOption: null,
-	 *             "isEnableHa: null,
-	 *             "vmFaultProcess: null,
-	 *             "reoverByHost: null,
-	 *             "clockMode: null,
-	 *             "isEnableMemVol: null,
-	 *             "isEnableFt: null,
-	 *             "isAutoUpgrade: null,
-	 *             "attachType: null,
-	 *             "gpuShareType: null,
-	 *             "isReserveResource: null,
-	 *             "secureVmType: null,
-	 *             "isHpet: null,
-	 *             "bootFirmware: null,
-	 *             "vmVncKeymapSetting: null
-	 *           }
-	 *         },
-	 *         "vmRebootConfig: null,
-	 *         "osOptions: null,
-	 *         "idle: 134,
-	 *         "deleteTime: null,
-	 *         "toolsVersion: "1.3.10.32",
-	 *         "imcSetting: null,
-	 *         "minCompatibleimcSetting: "Ivy Bridge",
-	 *         "isBindingHost: false,
-	 *         "additionalStatus: null,
-	 *         "hostName: "CNA06",
-	 *         "clusterName: "托管集群",
-	 *         "vmType: 0,
-	 *         "drStatus: 9,
-	 *         "rpoStatus: 0,
-	 *         "initSyncStatus: 0,
-	 *         "drDrillVmUri: null,
-	 *         "drDrillVmUrn: null,
-	 *         "objectPrivs: [],
-	 *         "isMultiDiskSpeedup: null,
-	 *         "params: null
-	 *       }
-	 *     ]
-	 *   }
-	 * }
+	         "uri:  "/service/sites/3F7B07E2/vms/i-0000027D",
+	         "urn: "urn:sites:3F7B07E2:vms:i-0000027D",
+	         "uuid: "5d48e6af-968d-45d0-a912-93aa2419c243",
+	         "name: "商旅学院",
+	         "description: null,
+	         "group: null,
+	         "location: "urn:sites:3F7B07E2:clusters:335",
+	         "locationName: "托管集群",
+	         "hostUrn: "urn:sites:3F7B07E2:hosts:420",
+	         "clusterUrn: "urn:sites:3F7B07E2:clusters:335",
+	         "dataStoreUrns: null,
+	         "status: "running",
+	         "pvDriverStatus: "running",
+	         "toolInstallStatus: "empty",
+	         "cdRomStatus: "empty",
+	         "isTemplate: false,
+	         "isLinkClone: false,
+	         "createTime: "2017-03-20 07:43:19",
+	         "vncAcessInfo: null,
+	         "vmConfig: {
+	           "cpu: null,
+	           "memory: null,
+	           "disks: null,
+	           "nics: [
+	             {
+	               "name: null,
+	               "urn: null,
+	               "uri: null,
+	               "portGroupUrn: null,
+	               "portGroupName: null,
+	               "mac: "28:6e:d4:88:c8:ec",
+	               "ip: "113.55.12.216",
+	               "ips6: [
+	                 "fe80::c1e7:d0d7:17fb:17c6"
+	               ],
+	               "sequenceNum: 0,
+	               "virtIo: null,
+	               "ipList: "113.55.12.216",
+	               "nicType: null,
+	               "portId: null
+	             }
+	           ],
+	           "usb: null,
+	           "gpu: null,
+	           "properties: {
+	             "bootOption: null,
+	             "isEnableHa: null,
+	             "vmFaultProcess: null,
+	             "reoverByHost: null,
+	             "clockMode: null,
+	             "isEnableMemVol: null,
+	             "isEnableFt: null,
+	             "isAutoUpgrade: null,
+	             "attachType: null,
+	             "gpuShareType: null,
+	             "isReserveResource: null,
+	             "secureVmType: null,
+	             "isHpet: null,
+	             "bootFirmware: null,
+	             "vmVncKeymapSetting: null
+	           }
+	         },
+	         "vmRebootConfig: null,
+	         "osOptions: null,
+	         "idle: 134,
+	         "deleteTime: null,
+	         "toolsVersion: "1.3.10.32",
+	         "imcSetting: null,
+	         "minCompatibleimcSetting: "Ivy Bridge",
+	         "isBindingHost: false,
+	         "additionalStatus: null,
+	         "hostName: "CNA06",
+	         "clusterName: "托管集群",
+	         "vmType: 0,
+	         "drStatus: 9,
+	         "rpoStatus: 0,
+	         "initSyncStatus: 0,
+	         "drDrillVmUri: null,
+	         "drDrillVmUrn: null,
+	         "objectPrivs: [],
+	         "isMultiDiskSpeedup: null,
+	         "params: null
+	    }
+		]
+	}
+}
 ```
 
-## <span id="#5" /> 告警
+## <span id="5" /> 告警
 
-### <span id="#5-1" /> 查询活动告警
+### <span id="5-1" /> 查询活动告警
 
 `GET /site/:siteUri/alarm/activeAlarm?token=TOKEN`
 
@@ -478,9 +478,9 @@
 ```
 
 
-## <span id="#6" /> 存储
+## <span id="6" /> 存储
 
-### <span id="#6-1" /> 分页查询数据存储列表
+### <span id="6-1" /> 分页查询数据存储列表
 
 `GET /site/:siteUri/dataStorage/?limit=LIMIT&offset=OFFSET&token=TOKEN`
 
@@ -500,46 +500,45 @@
     total: 20,
     list: [
     {
-	 *         "urn: "urn:sites:3F7B07E2:datastores:1",
-	 *         "uri: "/service/sites/3F7B07E2/datastores/1",
-	 *         "suUrn: "urn:sites:3F7B07E2:storageunits:6FE4A2A1AD074151B894831C78C5537D",
-	 *         "suName: "scsi-366c92bf0000b31941d78304db51ec09a-part10",
-	 *         "storageType: "local",
-	 *         "clusterSize: null,
-	 *         "name: "autoDS01",
-	 *         "status: "NORMAL",
-	 *         "capacityGB: 1845,
-	 *         "usedSizeGB: 781,
-	 *         "freeSizeGB: 1064,
-	 *         "hosts: [
-	 *           "urn:sites:3F7B07E2:hosts:134"
-	 *         ],
-	 *         "isThin: false,
-	 *         "description: null,
-	 *         "thinRate: 100,
-	 *         "actualCapacityGB: 1845,
-	 *         "actualFreeSizeGB: 1064,
-	 *         "refreshTime: "2015-09-01 11:07:01",
-	 *         "version: null,
-	 *         "tierSize: null,
-	 *         "ioDelay: null,
-	 *         "expandCount: null,
-	 *         "suIdList: [],
-	 *         "siocFlag: 0,
-	 *         "storageUnits: [
-	 *           {
-	 *             "urn: "6FE4A2A1AD074151B894831C78C5537D",
-	 *             "sdName: "LOCAL",
-	 *             "suName: "scsi-366c92bf0000b31941d78304db51ec09a-part10"
-	 *           }
-	 *         ],
-	 *         "params: null
-	 *       }
-	 *     ]
-	 *   }
-	 * }
-	 */
+	         "urn: "urn:sites:3F7B07E2:datastores:1",
+	         "uri: "/service/sites/3F7B07E2/datastores/1",
+	         "suUrn: "urn:sites:3F7B07E2:storageunits:6FE4A2A1AD074151B894831C78C5537D",
+	         "suName: "scsi-366c92bf0000b31941d78304db51ec09a-part10",
+	         "storageType: "local",
+	         "clusterSize: null,
+	         "name: "autoDS01",
+	         "status: "NORMAL",
+	         "capacityGB: 1845,
+	         "usedSizeGB: 781,
+	         "freeSizeGB: 1064,
+	         "hosts: [
+	           "urn:sites:3F7B07E2:hosts:134"
+	         ],
+	         "isThin: false,
+	         "description: null,
+	         "thinRate: 100,
+	         "actualCapacityGB: 1845,
+	         "actualFreeSizeGB: 1064,
+	         "refreshTime: "2015-09-01 11:07:01",
+	         "version: null,
+	         "tierSize: null,
+	         "ioDelay: null,
+	         "expandCount: null,
+	         "suIdList: [],
+	         "siocFlag: 0,
+	         "storageUnits: [
+	           {
+	             "urn: "6FE4A2A1AD074151B894831C78C5537D",
+	             "sdName: "LOCAL",
+	             "suName: "scsi-366c92bf0000b31941d78304db51ec09a-part10"
+	           }
+	         ],
+	         "params: null
+	 		}
+		]
+	}
+}
 ```
 
-## <span id="#7" /> 网络
+## <span id="7" /> 网络
 
