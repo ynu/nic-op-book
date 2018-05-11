@@ -5,8 +5,10 @@
 
 ## URL Schema
 所有API都使用以下URL Schema：
-`https://api.ynu.edu.cn/<moudel>/<version>/[<sub_moudel/]<interface>[?<params>]`
+`http(s)://<host>/<moudel>/<version>/[<sub_moudel/]<interface>[?<params>]`
 
+- 可根据情况使用HTTP或HTTPS；
+- `host` 提供API的域，可使用`api.ynu.edu.cn` （建议校内使用）或 `api2.ynu.edu.cn`（提供TLS 1.2）；
 - `moudel` 为方便组织，所有公共API都被分组在特定的模块里；
 - `sub_moudel` 子模块；
 - `version` 为避免今后api更改带来麻烦，每个模块的API都设定版本号；
@@ -20,7 +22,7 @@
 - 所有API均提供跨域调用（CORS）。
 
 ## 返回值说明
-所有请求的返回值包括两种类型：
+所有请求的返回值默认包括两种类型：
 
 - 操作成功返回：
 
