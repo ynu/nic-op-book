@@ -53,6 +53,7 @@
 			- [2018年周报8](gzzd/xxs/gzhb/2018/zhoubao-8.md)
 			- [2018年周报9](gzzd/xxs/gzhb/2018/zhoubao-9.md)
 			- [2018年周报10](gzzd/xxs/gzhb/2018/zhoubao-10.md)
+			- [2018年周报11](gzzd/xxs/gzhb/2018/zhoubao-11.md)
 	- 网络室
 		- [云南大学校园网出口防火墙安全管理制度](gzzd/wls/chukou-fhq-zhidu.md)
 		- [云南大学远程VPN使用管理办法](gzzd/wls/vpn-zhidu.md)
@@ -62,6 +63,7 @@
 		- [A. 项目建设&研发]()
 			- [1. 公共数据平台]()
 				- [数据交换规范](gzlc/xxs/a1/shuju-jiaohuan-guifan.md)
+				- [可供集成的数据集](gzlc/xxs/a1/provided-data-sets.md)
 			- [3. 统一身份认证系统]()
 				- [统一身份认证系统管理办法](gzlc/xxs/a3/imp-guanli-banfa.md)
 				- [应用系统授权](gzlc/xxs/a3/yingyong-shouquan.md)
