@@ -182,4 +182,5 @@
 	- [数据中心图书馆机房网络拓扑](kb/tsg-wangluo-tuopu.md)
 	- [永久链接](kb/permalinks.md)
 	- [工作总结](kb/gzzj/index.md)
+	- [校内IP地址](kb/ip.md)
 
