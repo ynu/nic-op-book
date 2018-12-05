@@ -19,6 +19,7 @@
 		- [云南大学数据中心服务器安全管理办法](gzzd/xxs/fuwuqi-anquan-banfa.md)
 		- [云南大学应用服务器管理办法](gzzd/xxs/fuwuqi-guanli-zhidu.md)
 		- [云南大学域名管理办法](gzzd/xxs/domain-zhidu.md)
+		- [云南大学数据中心风险洞察系统（RIS）管理制度](gzzd/xxs/ris-zhidu.md)
 		- 工作汇报
 			- [2016年6月工作汇报](gzzd/xxs/gzhb/yuebao-201606.md)
 			- [2016年7-8月工作汇报](gzzd/xxs/gzhb/yuebao-201607-08.md)
